@@ -12,4 +12,6 @@ files ending in .cumulative - cumulative stats for full trace up to that point
 
 Data from Chapter 3 can be found in ./recycling_data/
 
+a
+
 
